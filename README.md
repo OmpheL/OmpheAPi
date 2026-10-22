@@ -106,15 +106,6 @@ reports/ExtentReport.html
 
 ---
 
-## 👤 Admin Credentials (For Testing)
-
-```
-Email: testdummy@email.co.za
-Password: testdummy@email.co.za
-```
-
----
-
 ## 💡 Key Features
 
 * Clean framework structure
